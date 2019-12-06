@@ -1,4 +1,4 @@
-# Emplyee-Database
+# Employee-Database
 A basic employee database in JAVA - sort, search, update, insert, delete algorithms
 
 1. First random data for 2000 employees is generated in the output.txt file.
