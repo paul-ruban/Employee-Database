@@ -105,12 +105,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="Emplyee DB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Emplyee-Database" type="462c0819:PsiDirectoryNode" />
+              <item name="Employee DB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Employee-Database" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Emplyee DB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Emplyee-Database" type="462c0819:PsiDirectoryNode" />
+              <item name="Employee DB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Employee-Database" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -137,7 +137,7 @@
   <component name="RunManager">
     <configuration name="Employee DB" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Emplyee-Database" />
+      <module name="Employee-Database" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
